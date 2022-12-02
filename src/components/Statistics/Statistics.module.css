@@ -1,0 +1,34 @@
+.statistics {
+  background-color: rgb(238, 229, 229);
+}
+
+.title {
+  background-color: rgb(250, 244, 244);
+  color: rgb(134, 129, 129);
+  text-transform: uppercase;
+  padding: 35px 20px;
+  width: 390px;
+  margin: auto;
+  text-align: center;
+}
+
+.statList {
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+  width: 100px;
+  margin: auto;
+}
+
+.item {
+  background-color: rgb(91, 179, 214);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 26px;
+  border: 1px solid #bdbec0;
+}
+
+.label {
+  margin-bottom: 5px;
+}

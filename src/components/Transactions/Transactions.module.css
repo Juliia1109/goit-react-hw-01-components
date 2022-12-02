@@ -1,0 +1,20 @@
+.transactionHistory {
+  background-color: rgb(238, 227, 227);
+  width: 100%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.title {
+  background-color: rgb(102, 172, 199);
+  color: white;
+  text-transform: uppercase;
+  height: 45px;
+}
+
+.item {
+  background-color: white;
+  color: rgb(148, 129, 129);
+  height: 45px;
+}
